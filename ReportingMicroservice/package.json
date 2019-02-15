@@ -1,0 +1,16 @@
+{
+  "name": "reportingmicroservice",
+  "version": "0.0.0",
+  "description": "Reporting microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamed Motallebi",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13"
+  }
+}
